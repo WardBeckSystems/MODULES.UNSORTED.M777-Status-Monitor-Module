@@ -33,7 +33,7 @@ M777A status monitor module functional Title block at bottom left reading sidewa
 - **Words (OCR):** 1 in 1 lines: 6i
 - **Wiring (first pass):** 235 connected wire groups from 700 runs; labelled ends: 128 mm → 6i; 125 mm → 6i; 83 mm → 6i; 59 mm → 6i; 13 mm → 6i
 
-Every curve, box, word and wire group: [19xx - 777-01-002 - M777A STATUS MONITOR MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20777-01-002%20-%20M777A%20STATUS%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 777-01-002 - M777A STATUS MONITOR MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 777-01-002 - M777A STATUS MONITOR MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20777-01-002%20-%20M777A%20STATUS%20MONITOR%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 777-01-002 - M777A STATUS MONITOR MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

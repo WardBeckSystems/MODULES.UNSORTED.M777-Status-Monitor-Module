@@ -33,7 +33,7 @@ M777A status monitor module schematic Title block at bottom left reading sideway
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 95 connected wire groups from 1,393 runs
 
-Every curve, box, word and wire group: [19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20777-02-002%20-%20M777A%20STATUS%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20777-02-002%20-%20M777A%20STATUS%20MONITOR%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 
